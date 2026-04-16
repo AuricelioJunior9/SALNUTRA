@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Bem vindo ao Plataforma SALNUTRA
 
 TODO: Document your project here
